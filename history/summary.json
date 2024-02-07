@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 716,
-    "timeDay": 716,
-    "timeWeek": 716,
-    "timeMonth": 716,
-    "timeYear": 716,
+    "time": 731,
+    "timeDay": 731,
+    "timeWeek": 731,
+    "timeMonth": 731,
+    "timeYear": 731,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 522,
-    "timeDay": 522,
-    "timeWeek": 522,
-    "timeMonth": 522,
-    "timeYear": 522,
+    "time": 471,
+    "timeDay": 471,
+    "timeWeek": 471,
+    "timeMonth": 471,
+    "timeYear": 471,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 484,
-    "timeDay": 484,
-    "timeWeek": 484,
-    "timeMonth": 484,
-    "timeYear": 484,
+    "time": 610,
+    "timeDay": 610,
+    "timeWeek": 610,
+    "timeMonth": 610,
+    "timeYear": 610,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Admiral failing",
+    "url": "https://merchant.cnct.alpha.dev.gcp.shipwire.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/merchant.cnct.alpha.dev.gcp.shipwire.com.ico",
+    "slug": "admiral-failing",
+    "status": "down",
+    "uptime": "1.96%",
+    "uptimeDay": "1.96%",
+    "uptimeWeek": "1.96%",
+    "uptimeMonth": "1.96%",
+    "uptimeYear": "1.96%",
+    "time": 285,
+    "timeDay": 285,
+    "timeWeek": 285,
+    "timeMonth": 285,
+    "timeYear": 285,
+    "dailyMinutesDown": {
+      "2024-02-07": 0
+    }
   }
 ]
