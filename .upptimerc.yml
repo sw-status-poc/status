@@ -5,8 +5,10 @@ repo: status # The name of this repository
 sites:
   - name: Shipwire
     url: https://www.shipwire.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Merchant
+    url: https://merchant.shipwire.com
+  - name: Admiral
+    url: https://admiral.shipwire.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
