@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/uptimepoc.dev.gcp.shipwire.com.ico",
     "slug": "uptimepoc",
     "status": "up",
-    "uptime": "1.27%",
-    "uptimeDay": "1.27%",
-    "uptimeWeek": "1.27%",
-    "uptimeMonth": "1.27%",
-    "uptimeYear": "1.27%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 479,
     "timeDay": 479,
     "timeWeek": 479,
     "timeMonth": 479,
     "timeYear": 479,
-    "dailyMinutesDown": {
-      "2024-02-08": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
