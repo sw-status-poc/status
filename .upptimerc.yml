@@ -15,3 +15,4 @@ assignees: # Users to assign downtime issues (optional)
 status-website:
   baseUrl: /status # where "repo" is your repository name
   name: swpocstats
+
