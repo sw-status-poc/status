@@ -16,5 +16,23 @@
     "timeMonth": 70,
     "timeYear": 70,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Paradojo",
+    "url": "https://paradojo.com",
+    "icon": "https://icons.duckduckgo.com/ip3/paradojo.com.ico",
+    "slug": "paradojo",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
