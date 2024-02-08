@@ -2,31 +2,11 @@
 owner: sw-status-poc # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
-sites:
-  - name: Shipwire
-    url: https://www.shipwire.com
-  - name: Merchant
-    url: https://merchant.shipwire.com
-  - name: Admiral
-    url: https://admiral.shipwire.com
-  - name: Merchant failing
-    url: https://merchant.cnct.alpha.dev.gcp.shipwire.com/
-  - name: Admiral failing
-    url: https://admiral.cnct.alpha.dev.gcp.shipwire.com/
-
+sites: # List of endpoints to track
+  - name: Google
+    url: https://www.google.com
+assignees: # Users to assign downtime issues (optional)
+  - sw-status-poc
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /status
-  logoUrl: https://www.shipwire.com/wp-content/themes/shipwire/assets/img/Shipwire_CEVA_Logo_Blk_2x.png
-  name: Shipwire
-
-workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/1 * * * *"
+  baseUrl: /status # where "repo" is your repository name
+  name: swpocstats
