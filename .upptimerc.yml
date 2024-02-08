@@ -3,11 +3,13 @@ owner: sw-status-poc # Your GitHub organization or username, where this reposito
 repo: status # The name of this repository
 
 sites: # List of endpoints to track
-  - name: Google
-    url: https://www.google.com
-  - name: Paradojo
-    url: https://paradojo.com
-  - name: uptimepoc
+  - name: Shipwire Website
+    url: https://www.shipwire.com
+  - name: Merchant
+    url: https://merchant.shipwire.com
+  - name: Admiral
+    url: https://admiral.shipwire.com
+  - name: Failing site
     url: http://uptimepoc.dev.gcp.shipwire.com
     
 assignees: # Users to assign downtime issues (optional)
