@@ -8,7 +8,7 @@ sites: # List of endpoints to track
   - name: Paradojo
     url: https://paradojo.com
   - name: uptimepoc
-    url: https://uptimepoc.dev.gcp.shipwire.com
+    url: http://uptimepoc.dev.gcp.shipwire.com
     
 assignees: # Users to assign downtime issues (optional)
   - sw-status-poc
