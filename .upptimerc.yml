@@ -9,8 +9,10 @@ sites:
     url: https://merchant.shipwire.com
   - name: Admiral
     url: https://admiral.shipwire.com
-  - name: Admiral failing
+  - name: Merchant failing
     url: https://merchant.cnct.alpha.dev.gcp.shipwire.com/
+  - name: Admiral failing
+    url: https://admiral.cnct.alpha.dev.gcp.shipwire.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
