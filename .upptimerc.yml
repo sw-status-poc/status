@@ -5,6 +5,9 @@ repo: status # The name of this repository
 sites: # List of endpoints to track
   - name: Google
     url: https://www.google.com
+  - name: Paradojo
+    url: https://paradojo.com
+    
 assignees: # Users to assign downtime issues (optional)
   - sw-status-poc
 status-website:
