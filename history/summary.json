@@ -58,19 +58,19 @@
     "url": "http://uptimepoc.dev.gcp.shipwire.com",
     "icon": "https://icons.duckduckgo.com/ip3/uptimepoc.dev.gcp.shipwire.com.ico",
     "slug": "failing-site",
-    "status": "down",
-    "uptime": "71.62%",
-    "uptimeDay": "71.62%",
-    "uptimeWeek": "71.62%",
-    "uptimeMonth": "71.62%",
-    "uptimeYear": "71.62%",
-    "time": 130,
-    "timeDay": 130,
-    "timeWeek": 130,
-    "timeMonth": 130,
-    "timeYear": 130,
+    "status": "up",
+    "uptime": "62.08%",
+    "uptimeDay": "62.08%",
+    "uptimeWeek": "62.08%",
+    "uptimeMonth": "62.08%",
+    "uptimeYear": "62.08%",
+    "time": 149,
+    "timeDay": 149,
+    "timeWeek": 149,
+    "timeMonth": 149,
+    "timeYear": 149,
     "dailyMinutesDown": {
-      "2024-02-08": 21
+      "2024-02-08": 32
     }
   }
 ]
