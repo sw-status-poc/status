@@ -1,7 +1,7 @@
 url: http://uptimepoc.dev.gcp.shipwire.com
-status: down
-code: 502
-responseTime: 149
-lastUpdated: 2024-02-08T21:15:31.378Z
+status: up
+code: 200
+responseTime: 385
+lastUpdated: 2024-02-08T21:29:42.621Z
 startTime: 2024-02-08T19:33:32.013Z
 generator: Upptime <https://github.com/upptime/upptime>
