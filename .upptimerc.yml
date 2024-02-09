@@ -11,6 +11,12 @@ sites: # List of endpoints to track
     url: https://admiral.shipwire.com
   - name: Failing site
     url: http://uptimepoc.dev.gcp.shipwire.com
+  - name: WIAB
+    url: https://app.shipwire.com/exec/report_mod/login.php
+  - name: Confluence
+    url: https://confluence.corp.shipwire.com/login.action
+  - name: Jira
+    url: https://issues.corp.shipwire.com
     
 assignees: # Users to assign downtime issues (optional)
   - sw-status-poc
