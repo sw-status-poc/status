@@ -26,11 +26,3 @@ status-website:
   logoUrl: https://www.shipwire.com/wp-content/themes/shipwire/assets/img/Shipwire_CEVA_Logo_Blk_2x.png
   favicon: https://dka575ofm4ao0.cloudfront.net/pages-favicon_logos/original/336/33QHgcyvQ4WPaI4au2RO
 
-workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
