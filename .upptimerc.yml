@@ -16,7 +16,7 @@ assignees: # Users to assign downtime issues (optional)
   - sw-status-poc
 status-website:
   baseUrl: /status # where "repo" is your repository name
-  name: Shipwire Services Status
+  name: Services Status
   logoUrl: https://www.shipwire.com/wp-content/themes/shipwire/assets/img/Shipwire_CEVA_Logo_Blk_2x.png
   favicon: https://dka575ofm4ao0.cloudfront.net/pages-favicon_logos/original/336/33QHgcyvQ4WPaI4au2RO
 
