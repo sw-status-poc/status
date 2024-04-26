@@ -40,19 +40,19 @@
     "url": "https://admiral.shipwire.com",
     "icon": "https://icons.duckduckgo.com/ip3/admiral.shipwire.com.ico",
     "slug": "admiral",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "74.57%",
+    "uptimeWeek": "96.37%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.67%",
     "time": 650,
-    "timeDay": 824,
-    "timeWeek": 678,
-    "timeMonth": 640,
+    "timeDay": 746,
+    "timeWeek": 676,
+    "timeMonth": 641,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2024-04-26": 0
+      "2024-04-26": 366
     }
   },
   {
